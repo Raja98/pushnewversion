@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "814164138212",
+    "firebase_url": "https://pushnewer.firebaseio.com",
+    "project_id": "pushnewer",
+    "storage_bucket": "pushnewer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814164138212:android:d60df404020335ec",
+        "android_client_info": {
+          "package_name": "com.example.su.pushnewversion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814164138212-4j2vt37aq9n5k807pdknmlv7tptiki5k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.su.pushnewversion",
+            "certificate_hash": "cff534a9b22c03e12a8538e5b6736b2823e730b0"
+          }
+        },
+        {
+          "client_id": "814164138212-i4fgs0a90i4u31ahnm72r3lvb4oe67ol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJGzpA-bepzzl51Nzp12HP3lYDjlfqcz4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "814164138212-i4fgs0a90i4u31ahnm72r3lvb4oe67ol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
